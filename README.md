@@ -1,3 +1,5 @@
+![James0x57](https://img.shields.io/badge/James0x57%20%F0%9F%91%BD-I%20made%20a%20thing!-blueviolet.svg?labelColor=222222)
+
 # aug-attr-spliced.js
 augmented-ui plugin: adds `data-augmented-ui` attribute to html elements automatically from CSS
 
@@ -82,6 +84,6 @@ This is especially important to add to javascript animations because every chang
 
 * Augmentations will not be applied if js is disabled and don't apply until the page has loaded (any augmented elements above the landing fold should be included in the html instead of the CSS if you don't want users to potentially see them unapplied)
 * you cannot set these on pseudo elements, and only the `:hover` pseudo class is supported
-* aug-attr-spliced does not apply weights to the rules, it only takes them in order (so #id rule before a .class rule does not override the #id rule like you may expect)
+* aug-attr-spliced does not apply weights to the rules, it only takes them in order (so #id rule before a .class rule does not override the .class rule like you may expect)
 * does not currently watch for CSS added to the page or removed, this is the next TODO though
 * this is a very early release and there are no tests yet; expect optimizations, a demo page, and tests soon

@@ -1,0 +1,23 @@
+{
+  "name": "aug-attr-spliced",
+  "version": "0.1.0",
+  "description": "augmented-ui plugin: adds data-augmented-ui attribute to elements automatically from CSS",
+  "main": "aug-attr-spliced.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/propjockey/aug-attr-spliced.js.git"
+  },
+  "keywords": [
+    "augmented-ui",
+    "cyberpunk"
+  ],
+  "author": "James0x57",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/propjockey/aug-attr-spliced.js/issues"
+  },
+  "homepage": "https://github.com/propjockey/aug-attr-spliced.js#readme"
+}
