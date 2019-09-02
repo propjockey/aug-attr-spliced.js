@@ -1,7 +1,7 @@
 ![James0x57](https://img.shields.io/badge/James0x57%20%F0%9F%91%BD-I%20made%20a%20thing!-blueviolet.svg?labelColor=222222)
 
 # aug-attr-spliced.js
-augmented-ui plugin: adds `data-augmented-ui` attribute to html elements automatically from CSS
+augmented-ui plugin: adds `augmented-ui` attribute to html elements automatically from CSS
 
 # Setup
 
