@@ -17,7 +17,12 @@ const recursiveRuleCrawl = cssRules => {
   }
 }
 Array.from(document.styleSheets).forEach(
-  stylesheet => recursiveRuleCrawl(stylesheet.cssRules)
+  (stylesheet) => {
+    try {
+      recursiveRuleCrawl(stylesheet.cssRules)
+    } catch (e) {
+      console.log('Stylesheet unreadable: ', e, stylesheet)
+    }
 )
 
 const checkSetAttr = (el, attr, val) => {
