@@ -1,5 +1,28 @@
 ![James0x57](https://img.shields.io/badge/James0x57%20%F0%9F%91%BD-I%20made%20a%20thing!-blueviolet.svg?labelColor=222222)
 
+
+# Here from css-tricks about Space Toggles?
+
+> https://css-tricks.com/the-css-custom-property-toggle-trick/ 👋
+> 
+> You can read my write-up of the trick here: https://github.com/propjockey/css-sweeper#css-is-a-programming-language-thanks-to-the-space-toggle-trick
+> 
+> I've created a couple libraries with this trick already, check out:
+> 
+> css-media-vars: https://github.com/propjockey/css-media-vars A brand new way to write responsive vanilla CSS
+> 
+> augmented-ui: https://augmented-ui.com/ Sci-Fi and CyberPunk element shaping made super easy
+> 
+> Plus a couple demos built on it:
+> 
+> https://github.com/propjockey/bcd7sdd A seven segment display decoder
+> 
+> https://github.com/propjockey/css-sweeper MineSweeper programmed in 100% CSS (no JS)
+> 
+> Have fun!
+> 
+> https://twitter.com/James0x57
+
 # aug-attr-spliced.js
 augmented-ui plugin: adds `augmented-ui` attribute to html elements automatically from CSS
 
